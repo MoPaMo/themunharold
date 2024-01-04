@@ -2,7 +2,7 @@
 
 This is source code for a school project covering our MUN discussions
 
-All content is (c) MoPaMo 2023-2024
+All content is (c) MoPaMo 2023-2024 under the MIT License
 
 
 
