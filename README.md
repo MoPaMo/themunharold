@@ -1,6 +1,6 @@
 # TheMUN Harold
 
-This is source code for a school project civering our MUN discussions
+This is source code for a school project covering our MUN discussions
 
 All content is (c) MoPaMo 2023-2024
 
